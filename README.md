@@ -1,1 +1,1 @@
-an hello world script
+-e& wc\nan hello world script
