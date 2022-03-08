@@ -1,2 +1,3 @@
-#!/bin/bash\$PATH | tr ":" "
+#!/bin/bash
+$PATH | tr ":"  "
 " | WC -1
