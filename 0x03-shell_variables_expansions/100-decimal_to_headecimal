@@ -1,2 +1,1 @@
-#!/bin/bash
- printf %xn DECIMAL
+-c #!/bin/bash\n printf %xn DECIMAL
