@@ -1,3 +1,0 @@
-#!/bin/bash
-$PATH | tr ":"  "
-" | WC -1

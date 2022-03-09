@@ -1,1 +1,1 @@
--e& wc\nan hello world script
+Shell variable expansions
